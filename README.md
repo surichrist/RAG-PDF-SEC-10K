@@ -37,3 +37,11 @@ Sample Screenshots:
 
 
 
+Sample Video (Best to speed up and watch as inference is slow locally):
+
+https://github.com/user-attachments/assets/918b8038-81a5-48df-bb2b-5e110b0d9805
+
+
+
+
+
