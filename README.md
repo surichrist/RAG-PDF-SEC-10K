@@ -30,7 +30,7 @@ Sample Screenshots:
 
 <img width="1440" alt="Screenshot 2024-11-13" src="https://github.com/user-attachments/assets/a92d6c88-42ec-4125-b4f5-e96362fcb854">
 
-<img width="1440" alt="Screenshot 2024-11-13" src="https://github.com/user-attachments/assets/ed38d836-3cd6-4333-a14e-056dbc8db6ea">
+<img width="1552" alt="Screenshot 2024-11-13" src="https://github.com/user-attachments/assets/d71216a0-e833-4ae7-a83d-6de1992e47b7">
 
 <img width="1440" alt="Screenshot 2024-11-13" src="https://github.com/user-attachments/assets/e96df204-d6c5-4e9a-bed9-91ddccfe77c3">
 
